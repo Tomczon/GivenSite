@@ -1,5 +1,5 @@
 
-<template style = "scroll-behavior = smooth;">
+<template>
   <body>
     <div>
       <header>
