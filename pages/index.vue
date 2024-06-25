@@ -11,7 +11,7 @@ definePageMeta({
         <div class="inner">
             <h2>CAN'T SAY GOODBYE, I'M STILL<br/>
                 DRIFTING WITH YOUR ECHOES</h2>
-                <Img src = "~assets/Given_logo.png"></Img>
+                <img src = "~assets/Given_logo.png"></img>
         </div>
     </section>
 
@@ -19,7 +19,7 @@ definePageMeta({
         <div id="About" class="content-section" >
             <h1>We are Given!</h1>
             <div class = "desc">
-                <Img class = "img2"src = "~assets/group.jpg"></Img>  
+                <img class = "img2"src = "~assets/group.jpg"></img>  
                 <div class = "column">
                 <p class = "text">Given (formely The Seasons) is more than just a band; we're a group of friends brought together by fate and a shared love for music. Our journey started in a seemingly ordinary way, but it's become something extraordinary.</p>
 
@@ -41,7 +41,7 @@ definePageMeta({
         <div id="Mafuyu" class="content-section" >
             <h1>Mafuyu Sato</h1>
             <div class = "desc">
-                <Img class = "img2" src = "~assets/mafuyu.png"></Img>  
+                <img class = "img2" src = "~assets/mafuyu.png"></img>  
                 <div class = "column">
                 <p class = "text2">Mafuyu Sato is the lead vocalist of Given, and he brings an emotional depth that defines the band's unique sound. His haunting, ethereal voice captivates listeners, while his poignant lyrics, drawn from personal experiences of love and loss, resonate deeply with fans. Mafuyu's vulnerability and sincerity not only enrich the band's music but also strengthen the bonds between the members. His journey of healing through music makes him the emotional core of Given, inspiring both his bandmates and their audience.</p>
                 </div>
@@ -51,7 +51,7 @@ definePageMeta({
         <div id="Ue" class="content-section" >
             <h1>Ritsuka Uenoyama</h1>
             <div class = "desc">
-                <Img class = "img2" src = "~assets/ue.png"></Img>  
+                <img class = "img2" src = "~assets/ue.png"></img>  
                 <div class = "column">
                 <p class = "text2">Ritsuka Uenoyama is the guitarist of Given and the driving force behind the band’s energetic sound. His exceptional guitar skills and deep passion for music reignite the band's creativity and push them to new heights. Ritsuka is also instrumental in guiding Mafuyu Sato, helping him find his voice and develop his songwriting. His dedication and musical talent form the backbone of Given, making him an essential and inspiring member of the group.</p>
                 </div>
@@ -61,7 +61,7 @@ definePageMeta({
         <div id="Haruki" class="content-section" >
             <h1>Haruki Nakayama</h1>
             <div class = "desc">
-                <Img class = "img2" src = "~assets/haruki.png"></Img>  
+                <img class = "img2" src = "~assets/haruki.png"></img>  
                 <div class = "column">
                 <p class = "text2">Haruki Nakayama is the bassist of Given and the steady anchor of the band. As the oldest member, he brings maturity and stability to the group, often acting as the mediator and voice of reason. Haruki's smooth, intricate bass lines add depth and richness to their music, complementing the dynamic sounds of the guitar and vocals. His experience and calming presence help keep the band cohesive and focused, making him an indispensable part of Given.</p>
                 </div>
@@ -71,7 +71,7 @@ definePageMeta({
         <div id="Kaji" class="content-section" >
             <h1>Akihiko Kaji</h1>
             <div class = "desc">
-                <Img class = "img2" src = "~assets/akihiko.png"></Img>  
+                <img class = "img2" src = "~assets/akihiko.png"></img>  
                 <div class = "column">
                 <p class = "text2">Akihiko Kaji is the drummer of Given, known for his versatility and inventive style. His rhythmic precision and ability to experiment with different musical elements bring a unique and dynamic energy to the band’s performances. Akihiko's background in multiple instruments allows him to contribute creatively beyond drumming, adding layers and depth to their music. His adventurous approach and technical prowess make him a vital and exciting member of Given.</p>
                 </div>
