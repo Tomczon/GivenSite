@@ -3,7 +3,7 @@
   <body>
     <div>
       <header>
-          <img src="/Given_logo.png" alt="Logo" class="logo" />
+          <img src="~assets/Given_logo.png" alt="Logo" class="logo" />
           <div class = "nav">
             <button class="button1" onclick="document.getElementById('banner').scrollIntoView();">Home</button>
             <button class="button1" onclick="document.getElementById('About').scrollIntoView();">About</button>
@@ -26,7 +26,7 @@
 }
 
   body{
-    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(public/group_photo.png);
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/group_photo.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover; 
